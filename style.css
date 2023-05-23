@@ -1,0 +1,263 @@
+body{
+  text-align: 50%;
+
+}
+p{
+  padding-right: 30px;
+}
+.header{
+  width: 100%;
+  margin-left: 10%;
+  padding-bottom: 10%;
+  display: flex;
+
+}
+section img{
+  width: 50%;
+}
+h1{
+  font-size: 220%;
+  color: tomato;
+  letter-spacing: 4px;
+}
+h2{
+  letter-spacing: 4px;
+  font-size: 30px;
+  padding-top: 30px;
+}
+.half{
+  padding-left: 5%;
+  padding-top: 10%;
+}
+button{
+  margin-top: 10px;
+  background-color: orange;
+  border: none;
+  padding: 10px 35px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 800;
+  cursor: pointer;
+}
+.middle{
+  width: 80%;
+  margin-left: 10%;
+  display: flex;
+
+}
+.latest-work{
+text-align: center;
+color: rgb(75, 8, 100);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.footer{
+  width: 50%;
+  margin: auto;
+  display: flex;
+
+}
+.exp{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.footer img{
+  width: 30%;
+}
+.client-say{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  color: black;
+}
+.biogra{
+  color: red;
+}
+.client{
+  width: 50%;
+  display: flex;
+
+}
+.foot-button{
+  margin: auto;
+  width: 30%;
+  background-color: orange;
+  padding: 22px;
+  border-radius: 6px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.last{
+background-size: cover;
+}
+.experience{
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  margin: 25px 0 0 25px;
+  gap: 50px;
+}
+/* #half{
+  width: 40%;
+  height: 40%;
+  margin-left: 40px;
+  padding: 40px;
+  border-left: 10px solid;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px gray;
+} */
+
+
+.second{
+  border-left: 10px solid rgb(82, 14, 2);
+  box-shadow: 10px 10px 10px grey;
+  border-radius: 5px;
+}
+.nemesis{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+footer{
+  padding-top: 145px;
+  text-align: center;
+}
+
+
+
+@media screen and (max-width: 480px){
+  body{
+    text-align: 50%;
+  
+  }
+  p{
+    padding-right: 30px;
+  }
+  .header{
+    width: 100%;
+    margin-left: 10%;
+    padding-bottom: 10%;
+    display: flex;
+  
+  }
+  section img{
+    width: 50%;
+  }
+  h1{
+    font-size: 220%;
+    color: tomato;
+    letter-spacing: 4px;
+  }
+  h2{
+    letter-spacing: 4px;
+    font-size: 30px;
+    padding-top: 30px;
+  }
+  .half{
+    padding-left: 5%;
+    padding-top: 10%;
+  }
+  button{
+    margin-top: 10px;
+    background-color: orange;
+    border: none;
+    padding: 10px 35px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 800;
+    cursor: pointer;
+  }
+  .middle{
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+  
+  }
+  .latest-work{
+  text-align: center;
+  color: rgb(75, 8, 100);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+  
+  .footer{
+    width: 50%;
+    margin: auto;
+    display: flex;
+  
+  }
+  .exp{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .footer img{
+    width: 30%;
+  }
+  .client-say{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    color: black;
+  }
+  .biogra{
+    color: red;
+  }
+  .client{
+    width: 50%;
+    display: flex;
+  
+  }
+  .foot-button{
+    margin: auto;
+    width: 30%;
+    background-color: orange;
+    padding: 22px;
+    border-radius: 6px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .last{
+  background-size: cover;
+  }
+  .experience{
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    margin: 25px 0 0 25px;
+    gap: 50px;
+  }
+  /* #half{
+    width: 40%;
+    height: 40%;
+    margin-left: 40px;
+    padding: 40px;
+    border-left: 10px solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+  } */
+  
+  
+  .second{
+    border-left: 10px solid rgb(82, 14, 2);
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 5px;
+  }
+  .nemesis{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  footer{
+    padding-top: 145px;
+    text-align: center;
+  }
+}
